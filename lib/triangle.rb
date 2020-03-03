@@ -9,4 +9,7 @@ class Triangle
   def kind 
     
   end
+  
+  class TiangleError
+  end
 end
