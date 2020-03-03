@@ -11,5 +11,6 @@ class Triangle
   end
   
   class TiangleError
+    
   end
 end
