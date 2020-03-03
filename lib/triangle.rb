@@ -10,7 +10,7 @@ class Triangle
     
   end
   
-  class TiangleError
+  class TiangleError < StandardError
     
   end
 end
